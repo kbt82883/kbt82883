@@ -33,8 +33,6 @@
   
   ## 🤔 Stats
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kbt828)](https://solved.ac/kbt828)
-  <br/>
-  <br/>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbt82883&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
