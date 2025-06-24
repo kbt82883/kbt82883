@@ -32,13 +32,13 @@
   <br/>
   
   ## 🤔 Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bontak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbt82883&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kbt828)](https://solved.ac/kbt828)
   <br/>
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bontak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbt82883&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
