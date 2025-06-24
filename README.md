@@ -34,9 +34,11 @@
   ## 🤔 Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bontak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bontak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kbt828)](https://solved.ac/kbt828)
+  <br/>
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bontak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
