@@ -20,17 +20,17 @@
   
   ### Backend
   <img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-F44336?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-F44336?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <br/>
   
   ### Tools & Platforms
-  <img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F44336?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   <br/>
   
   ### ETC
