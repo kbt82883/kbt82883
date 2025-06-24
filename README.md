@@ -1,9 +1,6 @@
-<div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=96e6a1&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
-</div>
+<div class="header">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Bontak's GitHub">
+    </div>
 
 <div>
   <!--Body-->
