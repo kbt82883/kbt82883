@@ -1,11 +1,8 @@
 <div class="header" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F6D57F&text=Bontak's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Bontak's GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F6D57F&text=Bontak's%20GitHub%20&height=150&fontSize=30&descAlignY=75&descAlign=60" alt="Bontak's GitHub">
 </div>
 
 <div align="center">
-  <!--Body-->
-  
-  <br/>
   
   ## 🧱 Tech Stack
   ### Frontend
